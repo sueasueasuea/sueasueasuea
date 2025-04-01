@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siripol</h1>
-<h3 align="center">A enthusiasm frontend developer from Thailand</h3>
+<h3 align="center">A frontend developer from Thailand</h3>
 
 - 💬 Ask me about **react, react native, redux, tailwind css**
 
